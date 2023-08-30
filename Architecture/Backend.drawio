@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="sLfnsx0PsjXrV4OSWLCP" name="Page-1">
-        <mxGraphModel dx="815" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="782" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -162,6 +162,13 @@
                 <mxCell id="81" value="Update Mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="1020" y="62.5" width="60" height="35" as="geometry"/>
                 </mxCell>
+                <mxCell id="93" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82" target="92">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1380" y="-270"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="82" value="/calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="1320" y="-400" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -185,6 +192,27 @@
                 </mxCell>
                 <mxCell id="91" value="Add Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="1950" y="-385" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="/user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1440" y="-300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="Get User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1590" y="-285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="Add User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1680" y="-285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="Update User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1760" y="-285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="Delete User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1840" y="-285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="Add Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1920" y="-285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="Remove calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="2000" y="-285" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
