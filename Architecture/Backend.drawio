@@ -1,4 +1,69 @@
 <mxfile host="65bd71144e">
+    <diagram id="yEs3DQ_LijsLn7ulFQR4" name="Top-Level">
+        <mxGraphModel dx="1551" dy="1221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3GwQtmjHUf_MlHWRfso-1" target="R3GwQtmjHUf_MlHWRfso-2">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-30" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3GwQtmjHUf_MlHWRfso-1" target="R3GwQtmjHUf_MlHWRfso-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-30" y="30"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3GwQtmjHUf_MlHWRfso-1" target="R3GwQtmjHUf_MlHWRfso-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-30" y="140"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-1" value="/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="-80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-2" value="/Tags" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-5" value="/metrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-6" value="/health" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-9" value="Create Tag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="235" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-10" value="Get Tag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-12" value="Get all Tags&lt;br&gt;from User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-13" value="Rename" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-14" value="Set Color" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-15" value="Delete Tag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="870" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-16" value="Set Icon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="R3GwQtmjHUf_MlHWRfso-17" value="Delete Icon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="230" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
     <diagram id="sLfnsx0PsjXrV4OSWLCP" name="Admin">
         <mxGraphModel dx="1304" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
