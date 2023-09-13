@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="FnSp91QOuQn2dM1qvm7F" name="Domain">
-        <mxGraphModel dx="1215" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1378" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -294,8 +294,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="95" value="SharedContent" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=default;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="650" width="140" height="182" as="geometry"/>
+                <mxCell id="95" value="SharedCalendarOptions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="650" width="140" height="182" as="geometry">
+                        <mxRectangle x="360" y="650" width="170" height="30" as="alternateBounds"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="113" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="95">
                     <mxGeometry y="26" width="140" height="26" as="geometry"/>
