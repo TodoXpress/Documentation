@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="yEs3DQ_LijsLn7ulFQR4" name="Top-Level">
-        <mxGraphModel dx="1753" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1618" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -231,7 +231,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="rMVT9XFjADE_XIUy53N6" name="Calendar">
-        <mxGraphModel dx="2140" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1459" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -242,14 +242,14 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-9" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcPK01OeyCrzouhdFqDD-4" target="DG_d9QLKg4jSEReJVC-W-8">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-9" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xcPK01OeyCrzouhdFqDD-4" target="DG_d9QLKg4jSEReJVC-W-8" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint y="-10"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-19" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcPK01OeyCrzouhdFqDD-4" target="DG_d9QLKg4jSEReJVC-W-18">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-19" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xcPK01OeyCrzouhdFqDD-4" target="DG_d9QLKg4jSEReJVC-W-18" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint y="530"/>
@@ -277,21 +277,21 @@
                 <mxCell id="xcPK01OeyCrzouhdFqDD-10" value="Set Color" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="450" y="-125" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-11" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcPK01OeyCrzouhdFqDD-11" target="DG_d9QLKg4jSEReJVC-W-10">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-11" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xcPK01OeyCrzouhdFqDD-11" target="DG_d9QLKg4jSEReJVC-W-10" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="120" y="210"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-16" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcPK01OeyCrzouhdFqDD-11" target="xcPK01OeyCrzouhdFqDD-29">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-16" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xcPK01OeyCrzouhdFqDD-11" target="xcPK01OeyCrzouhdFqDD-29" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="120" y="310"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-17" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcPK01OeyCrzouhdFqDD-11" target="xcPK01OeyCrzouhdFqDD-16">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-17" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xcPK01OeyCrzouhdFqDD-11" target="xcPK01OeyCrzouhdFqDD-16" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="120" y="415"/>
@@ -382,56 +382,62 @@
                 <mxCell id="xcPK01OeyCrzouhdFqDD-38" value="Attach internal reference" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="95" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-1" value="Get Shared Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-1" value="Get Shared Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="190" y="-25" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-2" value="Share Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="-25" width="60" height="30" as="geometry"/>
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-2" value="Share Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="-25" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-3" value="remove share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="390" y="-25" width="60" height="30" as="geometry"/>
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-3" value="remove share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="-25" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-4" value="Get Shared Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-4" value="Get Shared Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="310" y="195" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-5" value="Share Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-5" value="Share Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="590" y="195" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-6" value="remove share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-6" value="remove share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="650" y="195" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-7" value="Get all Shared Calendars" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-7" value="Get all Shared Calendars" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="250" y="-25" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-8" value="/share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-8" value="/share" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="60" y="-40" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-10" value="/share" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-10" value="/share" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="170" y="180" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-12" value="Get all Shared Events from Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-12" value="Get all Shared Events from Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="370" y="195" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-13" value="Get all Shared Events from User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-13" value="Get all Shared Events from User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="440" y="195" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-15" value="Get all Shared Events from&amp;nbsp; shared User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-15" value="Get all Shared Events from&amp;nbsp; shared User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="510" y="195" width="70" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-18" value="/User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-18" value="/User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="60" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-20" value="Create User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-20" value="Create User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="210" y="515" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-21" value="Delete&lt;br&gt;User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-21" value="Delete&lt;br&gt;User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="370" y="515" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-22" value="Get Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-22" value="Get Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="450" y="515" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DG_d9QLKg4jSEReJVC-W-23" value="Update User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="DG_d9QLKg4jSEReJVC-W-23" value="Update User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="290" y="515" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="bKgwXMA8n0cGSP8gcMtG-1" value="Get all Shared Calendar from&amp;nbsp; shared User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="-25" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="bKgwXMA8n0cGSP8gcMtG-2" value="Get all Shared Calendar from User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="-25" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
