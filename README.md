@@ -10,7 +10,7 @@ This repository contains documentations about the project. It includes architect
 
 ## Techstack of the project
 
-- .Net7 / C# 11
+- .Net8 / C# 12
 - Backend:
   - API: ASP.Net minimal api
   - Db: PostgreSQL
@@ -20,25 +20,25 @@ This repository contains documentations about the project. It includes architect
   - Web: ASP.Net Blazor Web Assembly
 
 ## Code repository structure
+[TodoXpress Mono-Repo](https://github.com/TodoXpress/TodoXpress) structure:
 
-- [TodoXpress.Domain](https://github.com/TodoXpress/TodoXpress.Domain)
+- TodoXpress.Domain
 
   This repository contains the definition of the domains and all relevant
   domain entities, events, behaviors, etc.
 
-- [TodoXpressBackend](https://github.com/TodoXpress/TodoXpressBackend)
+- TodoXpress.Api.*
 
   This repository includes the api project as an monolith, it represents the
   hole backend. It is designed vertically according to the Domain Driven Design and horizontal by feature or domain.
 
-- [TodoXpress.UI.Native](https://github.com/TodoXpress/TodoXpress.Ui.Native)
-
+- TodoXpress.UI.Native
   This repository contains the projekt for the nativ application. With .Net Maui Hybrid it provides the razor pages for the nativ clients.
 
-- [TodoXpress.UI.Web](https://github.com/TodoXpress/TodoXpress.Ui.Web)
+- TodoXpress.UI.Web
 
   This respoitory contains the project for the web application. With .Net Blazor Web Assembly it provides the razor pages for the website.
 
-- [TodoXpress.UI.Components](https://github.com/TodoXpress/TodoXpress.Ui.Components)
+- TodoXpress.UI.Components
 
   This repository contains all razor components and pages. It provides the views to the projects for the nativ and web.
