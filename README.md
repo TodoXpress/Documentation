@@ -33,6 +33,7 @@ This repository contains documentations about the project. It includes architect
   hole backend. It is designed vertically according to the Domain Driven Design and horizontal by feature or domain.
 
 - TodoXpress.UI.Native
+
   This repository contains the projekt for the nativ application. With .Net Maui Hybrid it provides the razor pages for the nativ clients.
 
 - TodoXpress.UI.Web
